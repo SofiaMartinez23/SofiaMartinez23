@@ -2,6 +2,7 @@
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Sofia</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/weNbhGZ.png">
+![Example Image](Logo.png)
 
 [![GitHub followers](https://img.shields.io/github/followers/sofiamartinez?style=social)](https://github.com/SofiaMartinez23)
 
