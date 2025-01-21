@@ -50,46 +50,9 @@
   </a>
 </p>
 
-<!-- Currículum debajo del contenido anterior -->
-<div style="background-color: #f0f0f0; border-radius: 15px; padding: 20px; margin-top: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 900px; margin-left: auto; margin-right: auto; font-family: 'Arial', sans-serif; color: #333;">
-  <h2 style="text-align: center; color: #4C4C9D; font-size: 2em;">Currículum Vitae</h2>
-  <p style="text-align: center; font-size: 1.2em;">Sofia Martínez González</p>
-  
-  <hr style="border: 1px solid #4C4C9D; width: 80%; margin: 20px auto;">
-  
-  <h3 style="color: #4C4C9D;">¡Hola! Soy Sofía.</h3>
-  <p style="font-size: 1em; line-height: 1.6; text-align: justify;">
-    Soy desarrolladora web apasionada por la creación de soluciones digitales innovadoras. Mi objetivo es aportar creatividad, experiencia técnica y pasión por la programación a los proyectos que emprendo.
-  </p>
-  
-  <h3 style="color: #4C4C9D;">Educación</h3>
-  <ul style="font-size: 1em;">
-    <li><strong>Grado en Ingeniería Informática</strong> - Universidad de X, 2021</li>
-    <li><strong>Certificación en Desarrollo Web Full Stack</strong> - Platzi, 2023</li>
-  </ul>
-  
-  <h3 style="color: #4C4C9D;">Experiencia</h3>
-  <ul style="font-size: 1em;">
-    <li><strong>Desarrolladora Web - Empresa Y</strong> (2023 - Actualidad) <br> Trabajé en la creación y mantenimiento de aplicaciones web utilizando tecnologías como React, Node.js y MongoDB.</li>
-    <li><strong>Interna de Desarrollo de Software - Empresa Z</strong> (2022 - 2023) <br> Colaboré en el desarrollo de plataformas backend y la optimización de bases de datos SQL.</li>
-  </ul>
-  
-  <h3 style="color: #4C4C9D;">Habilidades</h3>
-  <ul style="font-size: 1em;">
-    <li>Desarrollo Frontend: HTML, CSS, JavaScript, React</li>
-    <li>Desarrollo Backend: Node.js, Express, MongoDB</li>
-    <li>Control de versiones: Git, GitHub</li>
-    <li>Trabajo en equipo y liderazgo</li>
-  </ul>
-
-  <h3 style="color: #4C4C9D;">Contacto</h3>
-  <ul style="font-size: 1em;">
-    <li><strong>Email:</strong> sofia.martinez@example.com</li>
-    <li><strong>GitHub:</strong> <a href="https://github.com/SofiaMartinez23" target="_blank">github.com/SofiaMartinez23</a></li>
-    <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sofia-mart%C3%ADnez-gonz%C3%A1les-134393316" target="_blank">linkedin.com/in/sofia-martínez-gonzález</a></li>
-  </ul>
-  
-  <p style="text-align: center;">
-    <a href="curriculum.pdf" style="text-decoration: none; background-color: #4C4C9D; color: white; padding: 10px 20px; border-radius: 25px; font-size: 1em;">Descargar mi currículum</a>
-  </p>
-</div>
+<!-- Enlace bonito al currículum -->
+<p align="center">
+  <a href="curriculum.pdf" style="text-decoration: none; background-color: #4C4C9D; color: white; padding: 12px 25px; border-radius: 50px; font-size: 1.2em; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: background-color 0.3s;">
+    📄 Descarga mi currículum
+  </a>
+</p>
