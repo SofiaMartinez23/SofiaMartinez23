@@ -46,4 +46,15 @@
   />
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=sofiamartinez23&hide=contribs&show_icons=true&theme=radical&show=prs_merged_percentage&rank_icon=github&border_color=9b59b6&bg_color=2c003e&title_color=9b59b6&text_color=e5e5e5&icon_color=9b59b6" />
 </picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiamartinez23&layout=compact&langs_count=8&theme=tokyonight&border_color=744cb0"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiamartinez23&layout=compact&langs_count=8&theme=radical&border_color=9b59b6&bg_color=2c003e&title_color=9b59b6&text_color=e5e5e5&icon_color=9b59b6"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiamartinez23&layout=compact&langs_count=8&theme=radical&border_color=9b59b6&bg_color=2c003e&title_color=9b59b6&text_color=e5e5e5&icon_color=9b59b6" />
+</picture>
 
