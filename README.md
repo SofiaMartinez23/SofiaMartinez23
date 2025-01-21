@@ -35,3 +35,14 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sofiamartinez&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=sofiamartinez23&hide=contribs&show_icons=true&theme=tokyonight&show=prs_merged_percentage&rank_icon=github&border_color=744cb0"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=sofiamartinez23&hide=contribs&show_icons=true&theme=shadow_blue&show=prs_merged_percentage&rank_icon=github&border_color=b9edc3&bg_color=dafbe1&title_color=00bda3&text_color=b0a3e1&icon_color=00c3ae"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=sofiamartinez23&hide=contribs&show_icons=true&theme=calm&show=prs_merged_percentage&rank_icon=github&border_color=744cb0" />
+  </picture>
