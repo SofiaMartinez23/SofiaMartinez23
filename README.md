@@ -13,6 +13,12 @@
   <a href="https://www.linkedin.com/in/sofia-mart%C3%ADnez-gonz%C3%A1les-134393316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-Sofia_Mart%C3%ADnez-%230077B5?style=social&logo=linkedin" alt="LinkedIn">
   </a>
+  <a href="curriculum.pdf">
+    <img src="https://img.shields.io/badge/Curr%C3%ADculum-Descargar-%234C4C9D?style=social&logo=adobeacrobatreader" alt="Currículum">
+  </a>
+</p>
+
+
 </p>
 
 # Sobre mí
@@ -49,8 +55,3 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiamartinez23&layout=compact&langs_count=8&theme=radical&border_color=d6a5f0&bg_color=f1e6fa&title_color=d6a5f0&text_color=6a4c9c&icon_color=d6a5f0"/>
   </a>
 </p>
-<!-- Stylish Link to Resume -->
-<!-- Stylish Link to Resume -->
-<a href="curriculum.pdf">
-    <img src="https://img.shields.io/badge/Curr%C3%ADculum-Descargar-%234C4C9D?style=social&logo=adobeacrobatreader" alt="Currículum">
-</a>
