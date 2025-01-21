@@ -49,8 +49,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiamartinez23&layout=compact&langs_count=8&theme=radical&border_color=d6a5f0&bg_color=f1e6fa&title_color=d6a5f0&text_color=6a4c9c&icon_color=d6a5f0"/>
   </a>
 </p>
-
-<!-- Enlace bonito al currículum -->
+<!-- Stylish Link to Resume -->
 <p align="center">
   <a href="curriculum.pdf" style="text-decoration: none; background-color: #4C4C9D; color: white; padding: 12px 25px; border-radius: 50px; font-size: 1.2em; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: background-color 0.3s;">
     📄 Descarga mi currículum
