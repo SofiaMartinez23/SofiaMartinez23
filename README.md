@@ -29,12 +29,7 @@
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
-<a href="https://github.com/sofiamartinez">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sofiamartinez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sofiamartinez&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=sofiamartinez23&hide=contribs&show_icons=true&theme=tokyonight&show=prs_merged_percentage&rank_icon=github&border_color=744cb0"
@@ -44,7 +39,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=sofiamartinez23&hide=contribs&show_icons=true&theme=radical&show=prs_merged_percentage&rank_icon=github&border_color=9b59b6&bg_color=2c003e&title_color=9b59b6&text_color=e5e5e5&icon_color=9b59b6"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=sofiamartinez23&hide=contribs&show_icons=true&theme=radical&show=prs_merged_percentage&rank_icon=github&border_color=9b59b6&bg_color=2c003e&title_color=9b59b6&text_color=e5e5e5&icon_color=9b59b6" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=sofiamartinez23&hide=contribs&show_icons=true&theme=radical&show=prs_merged_percentage&rank_icon=github&border_color=9b59b6&bg_color=2c003e&title_color=9b59b6&text_color=e5e5e5&icon_color=9b59b6" />
 </picture>
 <picture>
   <source
@@ -55,6 +50,6 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiamartinez23&layout=compact&langs_count=8&theme=radical&border_color=9b59b6&bg_color=2c003e&title_color=9b59b6&text_color=e5e5e5&icon_color=9b59b6"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiamartinez23&layout=compact&langs_count=8&theme=radical&border_color=9b59b6&bg_color=2c003e&title_color=9b59b6&text_color=e5e5e5&icon_color=9b59b6" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiamartinez23&layout=compact&langs_count=8&theme=radical&border_color=9b59b6&bg_color=2c003e&title_color=9b59b6&text_color=e5e5e5&icon_color=9b59b6" />
 </picture>
 
