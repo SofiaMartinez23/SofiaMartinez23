@@ -50,8 +50,7 @@
   </a>
 </p>
 <!-- Stylish Link to Resume -->
-<p align="center">
-  <a href="curriculum.pdf" style="text-decoration: none; background-color: #4C4C9D; color: white; padding: 12px 25px; border-radius: 50px; font-size: 1.2em; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: background-color 0.3s;">
-    📄 Descarga mi currículum
-  </a>
-</p>
+<!-- Stylish Link to Resume -->
+<a href="curriculum.pdf">
+    <img src="https://img.shields.io/badge/Curr%C3%ADculum-Descargar-%234C4C9D?style=social&logo=adobeacrobatreader" alt="Currículum">
+</a>
