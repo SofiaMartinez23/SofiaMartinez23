@@ -5,6 +5,10 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/sofiamartinez?style=social)](https://github.com/SofiaMartinez23)
 
+[![Instagram](https://img.shields.io/badge/Instagram-sofia_vk.23-%23E4405F?style=social&logo=instagram)](https://www.instagram.com/sofia_vk.23)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sofia_Mart%C3%ADnez-%230077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/sofia-mart%C3%ADnez-gonz%C3%A1les-134393316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 # Sobre mí
 
 - ⭐ **Github Junior** ⭐  
