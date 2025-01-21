@@ -38,8 +38,3 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiamartinez23&layout=compact&langs_count=8&theme=radical&border_color=d6a5f0&bg_color=f1e6fa&title_color=d6a5f0&text_color=6a4c9c&icon_color=d6a5f0"/>
   </a>
 </p>
-
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="sofiamartinez23's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sofiamartinez23&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sofiamartinez23&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="sofiamartinez23" height="230px"/>
