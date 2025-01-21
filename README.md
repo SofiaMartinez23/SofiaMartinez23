@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hola, soy <a href="https://aristi.dev">Sofia</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://aristi.dev">Sofia</a> 👋</h1>
 </div>
 <img src="Logo.png" alt="Logo">
 
@@ -33,8 +33,12 @@
 <p align="center">
   <a href="https://github.com/sofiamartinez23">
     <!-- Estadísticas de usuario -->
-    <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=sofiamartinez23&hide=contribs&show_icons=true&theme=midnight-purple&show=prs_merged_percentage&rank_icon=github&border_color=d6a5f0&bg_color=3f0e5b&title_color=ffd700&text_color=fff&icon_color=ffd700"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sofiamartinez23&hide=contribs&show_icons=true&theme=radical&show=prs_merged_percentage&rank_icon=github&border_color=d6a5f0&bg_color=f1e6fa&title_color=d6a5f0&text_color=6a4c9c&icon_color=d6a5f0"/>
     <!-- Lenguajes más utilizados -->
-    <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiamartinez23&layout=compact&langs_count=8&theme=midnight-purple&border_color=d6a5f0&bg_color=3f0e5b&title_color=ffd700&text_color=fff&icon_color=ffd700"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiamartinez23&layout=compact&langs_count=8&theme=radical&border_color=d6a5f0&bg_color=f1e6fa&title_color=d6a5f0&text_color=6a4c9c&icon_color=d6a5f0"/>
   </a>
 </p>
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="sofiamartinez23's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sofiamartinez23&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sofiamartinez23&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="sofiamartinez23" height="230px"/>
