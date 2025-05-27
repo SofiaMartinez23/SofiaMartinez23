@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/sofia-mart%C3%ADnez-gonz%C3%A1les-134393316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-Sofia_Mart%C3%ADnez-%230077B5?style=social&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="curriculum.pdf">
+  <a href="SofiaMartinezGonzalezCV">
     <img src="https://img.shields.io/badge/Curr%C3%ADculum-Descargar-%234C4C9D?style=social&logo=adobeacrobatreader" alt="Currículum">
   </a>
 </p>
